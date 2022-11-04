@@ -1,6 +1,6 @@
 ### Olá pessoal. Eu sou o Diogo Leite 👋
 
-- 🌱 Atualmente estou estudando HTML, CSS, JavaScript, React, ReactNative e Node.JS!
+- 🌱 Atualmente estou estudando/focando em React e Node.JS, ambos utilizando TypeScript!
 
  <div>
   <a href="https://github.com/diogoleite87">
