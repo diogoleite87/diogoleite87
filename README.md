@@ -6,26 +6,27 @@
 
 ---
 
-<p align="left">
-  • Programming languages:&nbsp;
-   <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="20"
-height="20"/>&nbsp;&#8259;
-   <img align="center" alt="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="20"
-height="20"/>
-</p>
 
-<p align="left">
-  • Libraries & Tools:&nbsp;
-  <img align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="mui" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="20" height="20"/>&nbsp;&#8259;
-  <img align="center" alt="sql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="20" height="20"/>
-</p>
+
+  #### • Programming languages
+   <img align="center" alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" width="25" height="25"/>&nbsp;&#8259;
+  <img align="center" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="25" height="25"/>&nbsp;&#8259;
+  <img align="center" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="25" height="25"/>&nbsp;&#8259;
+  <img align="center" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="25"
+height="25"/>&nbsp;&#8259;
+   <img align="center" alt="c" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="25"
+height="25"/>
+
+
+
+  #### • Libraries & Tools
+  <img align="center" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="25" height="25"/>&nbsp;&#8259;
+  <img align="center" alt="node" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width="25" height="25"/>&nbsp;&#8259;
+  <img align="center" alt="mui" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-plain.svg" width="25" height="25"/>&nbsp;&#8259;
+  <img align="center" alt="html5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="25" height="25"/>&nbsp;&#8259;
+  <img align="center" alt="css3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="25" height="25"/>&nbsp;&#8259;
+  <img align="center" alt="sql" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="25" height="25"/>
+
 
 <p align="center">
   <a href="mailto:diogoleite87@gmail.com" alt="Gmail">
