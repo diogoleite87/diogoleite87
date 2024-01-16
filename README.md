@@ -1,7 +1,7 @@
 ###
 
 <p align="left"> 
-  Hi there! I'm currently studying at the Universidade Federal Ouro Preto, in the sixth semester of the Information Systems course.
+  Hi there! I'm currently studying at the Universidade Federal Ouro Preto, in the seventh semester at System Information.
 </p>
 
 ---
